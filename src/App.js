@@ -7,7 +7,7 @@ function App() {
     <div>
     
       <div id = 'container'>
-        <input placeholder='enter text'  type = 'text' ref={textInput}></input>
+        <input placeholder='enter country name'  type = 'text' ref={textInput}></input>
         <button id='activation' onClick={onOnclickHandler}>ok</button>
       </div>
 

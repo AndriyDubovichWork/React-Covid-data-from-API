@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/React-Covid-data-from-API/static/css/main.853b82cf.chunk.css",
-    "main.js": "/React-Covid-data-from-API/static/js/main.ccff55c9.chunk.js",
-    "main.js.map": "/React-Covid-data-from-API/static/js/main.ccff55c9.chunk.js.map",
-    "runtime-main.js": "/React-Covid-data-from-API/static/js/runtime-main.0695621f.js",
-    "runtime-main.js.map": "/React-Covid-data-from-API/static/js/runtime-main.0695621f.js.map",
-    "static/js/2.0ad4408a.chunk.js": "/React-Covid-data-from-API/static/js/2.0ad4408a.chunk.js",
-    "static/js/2.0ad4408a.chunk.js.map": "/React-Covid-data-from-API/static/js/2.0ad4408a.chunk.js.map",
-    "static/js/3.b119e2c1.chunk.js": "/React-Covid-data-from-API/static/js/3.b119e2c1.chunk.js",
-    "static/js/3.b119e2c1.chunk.js.map": "/React-Covid-data-from-API/static/js/3.b119e2c1.chunk.js.map",
-    "index.html": "/React-Covid-data-from-API/index.html",
-    "static/css/main.853b82cf.chunk.css.map": "/React-Covid-data-from-API/static/css/main.853b82cf.chunk.css.map",
-    "static/js/2.0ad4408a.chunk.js.LICENSE.txt": "/React-Covid-data-from-API/static/js/2.0ad4408a.chunk.js.LICENSE.txt"
+    "main.css": "/ReactCovidDataFromAPI/static/css/main.853b82cf.chunk.css",
+    "main.js": "/ReactCovidDataFromAPI/static/js/main.ccff55c9.chunk.js",
+    "main.js.map": "/ReactCovidDataFromAPI/static/js/main.ccff55c9.chunk.js.map",
+    "runtime-main.js": "/ReactCovidDataFromAPI/static/js/runtime-main.1b572e1f.js",
+    "runtime-main.js.map": "/ReactCovidDataFromAPI/static/js/runtime-main.1b572e1f.js.map",
+    "static/js/2.0ad4408a.chunk.js": "/ReactCovidDataFromAPI/static/js/2.0ad4408a.chunk.js",
+    "static/js/2.0ad4408a.chunk.js.map": "/ReactCovidDataFromAPI/static/js/2.0ad4408a.chunk.js.map",
+    "static/js/3.b119e2c1.chunk.js": "/ReactCovidDataFromAPI/static/js/3.b119e2c1.chunk.js",
+    "static/js/3.b119e2c1.chunk.js.map": "/ReactCovidDataFromAPI/static/js/3.b119e2c1.chunk.js.map",
+    "index.html": "/ReactCovidDataFromAPI/index.html",
+    "static/css/main.853b82cf.chunk.css.map": "/ReactCovidDataFromAPI/static/css/main.853b82cf.chunk.css.map",
+    "static/js/2.0ad4408a.chunk.js.LICENSE.txt": "/ReactCovidDataFromAPI/static/js/2.0ad4408a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0695621f.js",
+    "static/js/runtime-main.1b572e1f.js",
     "static/js/2.0ad4408a.chunk.js",
     "static/css/main.853b82cf.chunk.css",
     "static/js/main.ccff55c9.chunk.js"
